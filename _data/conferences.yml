@@ -1,17 +1,30 @@
 
 ---
+- title: 设置自己的AI-deadline
+  year: 2019
+  id: ppz
+  link: http://ecai2020.eu/
+  deadline: '2019-11-19 23:59:59'
+  abstract_deadline: '2019-11-15 23:59:59'
+  timezone: UTC+8
+  date: 11.19, 2019
+  place: 莱达四维，深圳
+  sub: other
+  note: '<b>备注</b>: 完成属于自己的AI-Deadline <a href=''https://github.com/little-carrrot-errr/ai-deadlines''>fork地址</a>.'
 
-- title: ECAI
+
+- title: 设置自己的AI-deadline
   year: 2020
   id: ecai20
   link: http://ecai2020.eu/
   deadline: '2019-11-19 23:59:59'
   abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: June 8-12, 2020
   place: Santiago de Compostella, Spain
-  sub: ML
+  sub: other
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
+
 
 - title: ICAPS
   year: 2020
@@ -19,7 +32,7 @@
   link: https://icaps20.icaps-conference.org/
   deadline: '2019-11-20 23:59:59'
   abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: June 14-19, 2020
   place: Nancy, France
   sub: ML
@@ -40,7 +53,7 @@
   id: acl20
   link: https://acl2020.org/
   deadline: '2019-12-09 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: July 6-8, 2020
   place: Seattle, Washington, USA
   sub: NLP
@@ -61,7 +74,7 @@
   link: https://www.ijcai20.org/
   deadline: '2020-01-21 23:59:59'
   abstract_deadline: '2020-01-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: July 11-17, 2020
   place: Yokohama, Japan
   sub: ML
@@ -82,7 +95,7 @@
   id: rss20
   link: https://roboticsconference.org/
   deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: Jul 12-17, 2020
   place: Oregon State University at Corvallis, Oregon
   sub: RO
@@ -144,7 +157,7 @@
   id: interspeech20
   link: http://www.interspeech2020.org/
   deadline: '2020-03-29 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: September 14-18, 2020
   place: Shanghai, China
   sub: SP
@@ -174,7 +187,7 @@
   id: naacl19
   link: http://naacl2019.org/
   deadline: '2018-12-10 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: June 2-7, 2019
   place: Minneapolis, USA
   sub: NLP
@@ -237,7 +250,7 @@
   id: interspeech19
   link: https://www.interspeech2019.org/
   deadline: '2019-03-29 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: September 15-19, 2019
   place: Graz, Austria
   sub: SP
@@ -260,7 +273,7 @@
   link: https://ecmlpkdd2019.org/
   deadline: '2019-04-05 23:59:59'
   abstract_deadline: '2019-03-29 23:59:29'
-  timezone: UTC-12
+  timezone: UTC+8
   date: September 16-20, 2019
   place: "W\xFCrzburg, Germany"
   sub: ML
@@ -272,7 +285,7 @@
   id: ismir19
   link: http://ismir2019.ewi.tudelft.nl/
   deadline: '2019-04-05 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: November 4-8, 2019
   place: Delft, The Netherlands
   sub: SP
@@ -283,7 +296,7 @@
   link: https://www.acmmm.org/2019/
   deadline: '2019-04-08 23:59:59'
   abstract_deadline: '2019-04-01 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: October 21-25, 2019
   place: Nice, France
   sub: CV
@@ -330,7 +343,7 @@
   id: conll2019
   link: http://www.conll.org/2019
   deadline: '2019-05-31 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: November 3-4, 2019
   place: Hong Kong
   sub: NLP
@@ -462,7 +475,7 @@
   link: https://aamas2020.conference.auckland.ac.nz/
   deadline: '2019-11-15 23:59:59'
   abstract_deadline: '2019-11-12 23:59:59'
-  timezone: UTC-12
+  timezone: UTC+8
   date: May 9-13, 2020
   place: Auckland, New Zealand
   sub: ML
