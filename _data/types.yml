@@ -9,7 +9,7 @@
   sub: RO
 - name: Speech/SigProc
   sub: SP
-- name: other
+- name: others
   sub: other
 - name: Data Mining
   sub: DM
