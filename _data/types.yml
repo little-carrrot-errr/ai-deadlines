@@ -10,6 +10,6 @@
 - name: Speech/SigProc
   sub: SP
 - name: others
-  sub: other
+  sub: OT
 - name: Data Mining
   sub: DM
